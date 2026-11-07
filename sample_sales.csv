@@ -1,0 +1,11 @@
+date,item,price,quantity,city
+2026-01-01,Croissant,3.50,10,Bangalore
+2026-01-01,Baguette,2.00,15,Mumbai
+2026-01-02,Croissant,3.50,8,Bangalore
+2026-01-02,Muffin,2.50,20,Delhi
+2026-01-02,Sourdough,5.00,5,Mumbai
+2026-01-03,Croissant,3.50,12,Bangalore
+2026-01-03,Baguette,2.00,18,Mumbai
+2026-01-03,Muffin,2.50,15,Delhi
+2026-01-04,Croissant,3.50,14,Bangalore
+2026-01-04,Sourdough,5.00,,Delhi
